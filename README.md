@@ -4,5 +4,5 @@
 
 - **Знаю основы пайтона**
 - **Чутка умею в автоматизацию тестирования**
-- **Сейчас увлекся изучением Selenium**
+- **Сейчас увлекся более глубоким изучением Selenium**
 - **Моя страница на** [![](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=%20&style=flat&color=blue&labelColor=5c5c5c)](https://www.linkedin.com/in/vladlen-kuznetcov/)
