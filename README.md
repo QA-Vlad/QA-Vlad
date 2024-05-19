@@ -3,6 +3,6 @@
 ---
 
 - **Знаю основы пайтона**
-- **Чутка умею в автоматизацию тестирования**
-- **Сейчас увлекся более глубоким изучением Selenium**
+- **Умею в автоматизацию тестирования с помощью Pytest**
+- **Регулярно изучаю что-то новое**
 - **Моя страница на** [![](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=%20&style=flat&color=blue&labelColor=5c5c5c)](https://www.linkedin.com/in/vladlen-kuznetcov/)
